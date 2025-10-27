@@ -1,5 +1,3 @@
 ```python
-## Question 1
-
-Custom
+print("Hello World")
 ```
